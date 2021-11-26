@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UnitTestApp.Model.Bar">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Bar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestApp.Model.Foo">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Foo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestApp.Model.God">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Model\God.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestApp.Model.MyUnitTest">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MyUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestApp.Model.MyUnitTestMethod">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MyUnitTestMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitTestApp.Program">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

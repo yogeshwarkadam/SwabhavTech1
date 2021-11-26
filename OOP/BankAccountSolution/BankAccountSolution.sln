@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountLib", "AccountLib\AccountLib.csproj", "{9307A114-0204-4884-84E9-FE14A8FD43FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountConsoleApp", "AccountConsoleApp\AccountConsoleApp.csproj", "{040AED3B-6A03-4EA5-BC41-9953D4D5D727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9307A114-0204-4884-84E9-FE14A8FD43FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9307A114-0204-4884-84E9-FE14A8FD43FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9307A114-0204-4884-84E9-FE14A8FD43FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9307A114-0204-4884-84E9-FE14A8FD43FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040AED3B-6A03-4EA5-BC41-9953D4D5D727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040AED3B-6A03-4EA5-BC41-9953D4D5D727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040AED3B-6A03-4EA5-BC41-9953D4D5D727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040AED3B-6A03-4EA5-BC41-9953D4D5D727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D7BB1EE-D6F8-4CAB-864B-B26706280098}
+	EndGlobalSection
+EndGlobal

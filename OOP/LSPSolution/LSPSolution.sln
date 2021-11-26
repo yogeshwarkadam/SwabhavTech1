@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPViolationApp", "LSPViolationApp\LSPViolationApp.csproj", "{1AC1C6C7-4CDD-4F70-AD61-FB6119EAC560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPSolutionApp", "LSPSolutionApp\LSPSolutionApp.csproj", "{0A97D464-9EA1-436E-9634-CD7B1610DDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC1C6C7-4CDD-4F70-AD61-FB6119EAC560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC1C6C7-4CDD-4F70-AD61-FB6119EAC560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC1C6C7-4CDD-4F70-AD61-FB6119EAC560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC1C6C7-4CDD-4F70-AD61-FB6119EAC560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A97D464-9EA1-436E-9634-CD7B1610DDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A97D464-9EA1-436E-9634-CD7B1610DDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A97D464-9EA1-436E-9634-CD7B1610DDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A97D464-9EA1-436E-9634-CD7B1610DDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB69DAAB-F3A2-4060-9952-29CBCDD29A75}
+	EndGlobalSection
+EndGlobal

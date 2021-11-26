@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleLib", "RectangleLib\RectangleLib.csproj", "{34E3A6CD-7A51-4666-A580-B76CE765330E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleConsoleApp", "RectangleConsoleApp\RectangleConsoleApp.csproj", "{10FA5A2C-C539-4DFE-897E-5A3147659046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E3A6CD-7A51-4666-A580-B76CE765330E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E3A6CD-7A51-4666-A580-B76CE765330E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E3A6CD-7A51-4666-A580-B76CE765330E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E3A6CD-7A51-4666-A580-B76CE765330E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FA5A2C-C539-4DFE-897E-5A3147659046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FA5A2C-C539-4DFE-897E-5A3147659046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FA5A2C-C539-4DFE-897E-5A3147659046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FA5A2C-C539-4DFE-897E-5A3147659046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF909A4-D479-421C-A36A-B3052611193A}
+	EndGlobalSection
+EndGlobal
