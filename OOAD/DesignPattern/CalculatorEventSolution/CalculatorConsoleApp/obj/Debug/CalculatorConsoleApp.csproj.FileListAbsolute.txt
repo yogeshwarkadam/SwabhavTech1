@@ -1,0 +1,10 @@
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\bin\Debug\CalculatorLib.dll
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\bin\Debug\CalculatorLib.pdb
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\SwabhavTech1\OOAD\DesignPattern\CalculatorEventSolution\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb

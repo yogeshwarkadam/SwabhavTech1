@@ -1,0 +1,16 @@
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\bin\Debug\netcoreapp3.1\FirstSimpleForm.exe
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\bin\Debug\netcoreapp3.1\FirstSimpleForm.deps.json
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\bin\Debug\netcoreapp3.1\FirstSimpleForm.runtimeconfig.json
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\bin\Debug\netcoreapp3.1\FirstSimpleForm.runtimeconfig.dev.json
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\bin\Debug\netcoreapp3.1\FirstSimpleForm.dll
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\bin\Debug\netcoreapp3.1\FirstSimpleForm.pdb
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.csproj.AssemblyReference.cache
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.Form1.resources
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.csproj.GenerateResource.cache
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.AssemblyInfoInputs.cache
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.AssemblyInfo.cs
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.csproj.CoreCompileInputs.cache
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.dll
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.pdb
+D:\SwabhavTech1\windowsFormApp\FirstSimpleForm\FirstSimpleForm\obj\Debug\netcoreapp3.1\FirstSimpleForm.genruntimeconfig.cache

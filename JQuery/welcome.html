@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #banner{
+            height: 100px;
+            width: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div id="banner">
+
+    </div>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        console.log(window.jquery == window.$);
+        console.log(typeof jQuery);
+        $('#banner').html("<h1>Welcome to the world of jQuery</h1>");
+        $('#banner').css('color','red');
+        $('#banner').css('background-color','pink');
+
+
+        
+    </script>
+</body>
+</html>

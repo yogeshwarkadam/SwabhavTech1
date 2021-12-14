@@ -1,0 +1,21 @@
+<div *ngIf="!startedGame">
+<div class="first">
+    <h1>Blue Ball Game</h1>
+    <h3>RULES</h3>
+    <h4>1) You can select balls from 10 to 50 <br>
+    2) You have only one minute to complete your guesses <br>
+    3) 4 tries for one user</h4>
+</div>
+<div class="second">
+    <h3>Select Balls</h3>
+    <div class="slidecontainer">
+        <input type="range" min="10" max="50" class="slider" [(ngModel)]="slideValue">
+    </div>
+   
+    <div >
+        <h4 class="yo">Number of balls: {{slideValue}}</h4>
+        <button (click)=startGame()>Start Game</button>
+    </div>
+</div>
+</div>
+<sw-circle *ngIf="startedGame" [sliderValue]="slideValue"></sw-circle>

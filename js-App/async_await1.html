@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        async function foo(){
+            return 10;
+        }
+        function bar(){
+            return new promise((resolve,reject)=> resolve(100));
+        }
+        foo()
+        .then((r)=>console.log(r));
+        bar()
+        .then((r)=>console.log(r));
+
+        async function main(){
+            var fooResult = await foo()
+            console.log("fooResult"+fooResult);
+            var barResult = await bar()
+            console.log("barResult"+barResult);
+        }
+        main();
+        console.log("end of script");
+    </script>
+</body>
+</html>

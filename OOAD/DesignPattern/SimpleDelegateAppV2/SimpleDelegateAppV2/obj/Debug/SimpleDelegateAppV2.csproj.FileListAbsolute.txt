@@ -1,0 +1,7 @@
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\bin\Debug\SimpleDelegateAppV2.exe.config
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\bin\Debug\SimpleDelegateAppV2.exe
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\bin\Debug\SimpleDelegateAppV2.pdb
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\obj\Debug\SimpleDelegateAppV2.csproj.AssemblyReference.cache
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\obj\Debug\SimpleDelegateAppV2.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\obj\Debug\SimpleDelegateAppV2.exe
+D:\SwabhavTech\OOAD\DesignPattern\SimpleDelegateAppV2\SimpleDelegateAppV2\obj\Debug\SimpleDelegateAppV2.pdb

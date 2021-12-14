@@ -1,0 +1,10 @@
+
+
+<div class="container " >
+    <button class="btn btn-primary m-2" (click)="clearButton()">Clear Gallary</button>
+    <div *ngFor="let a of random_images"  (click)="onClickImage(a)">
+            <img src="{{baseURL}}{{a}}" class="img-thumbnail  "  
+            alt="">
+    </div>
+</div> <br>
+<img src="{{selectedImage}}" class="go" alt="">

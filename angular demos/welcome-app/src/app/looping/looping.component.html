@@ -1,0 +1,15 @@
+<h1>
+    looping component
+</h1>
+<div>
+    <ul *ngFor="let item of makeList(8);index as i;even as isEven">
+        <li [style.color]="isEven?'yello':'red'">
+            swabhav{{i}}
+        </li>
+    </ul>
+    <div *ngFor="let ball of balls">
+        <input type="button" (click)="handleClickEvent(ball.id)"
+         [style.background-color]="ball.color" [value]="ball.description" />
+    </div>
+
+</div>

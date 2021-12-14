@@ -1,0 +1,17 @@
+
+    <div>
+        <label >enter amount: </label>
+        <input type="text"  #amount>
+    </div>
+    <br>
+    <div>
+        <label >Rate: </label>
+        <input type="text"  #rate>
+    </div>
+    <br>
+    <button (click)=calculateDiscount(amount.value,rate.value)>Calculate</button>
+    <br> <br> <br>
+    <label for="Discount" *ngIf="!spinnerActive"> Discount: {{result}} </label>
+    <img src="assets/R.gif" alt=""  *ngIf="spinnerActive">
+
+

@@ -30,22 +30,18 @@
          
           function addMore(){
            
-            let name = document.getElementById("content").value;
-            let box = document.getElementById("box");
-            let li = document.createElement("li");
+            var name = document.getElementById("content").value;
+            var box = document.getElementById("box");
+            var li = document.createElement("li");
             li.textContent = name;
-           
             box.appendChild(li);
-
-            var todos = localStorage.setItem("key", " ");
 
             var boxData = box.textContent+",";
             localStorage.setItem("element",boxData);
-            
           }
           let box = document.getElementById("box");
           box.textContent = localStorage.getItem("element").split(","); 
-          box.forEach(n=>document.writeln(n));
+         
       </script>
 </body>
 </html>

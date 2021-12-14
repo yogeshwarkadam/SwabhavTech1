@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountEventLib", "AccountEventLib\AccountEventLib.csproj", "{8E85863E-1BA2-4EBF-8FF1-4DD66B3924C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountEventHandlerApp", "AccountEventHandlerApp\AccountEventHandlerApp.csproj", "{AAB8AFFA-A637-4CFD-AC1C-9AC2547D0105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E85863E-1BA2-4EBF-8FF1-4DD66B3924C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E85863E-1BA2-4EBF-8FF1-4DD66B3924C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E85863E-1BA2-4EBF-8FF1-4DD66B3924C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E85863E-1BA2-4EBF-8FF1-4DD66B3924C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB8AFFA-A637-4CFD-AC1C-9AC2547D0105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB8AFFA-A637-4CFD-AC1C-9AC2547D0105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB8AFFA-A637-4CFD-AC1C-9AC2547D0105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB8AFFA-A637-4CFD-AC1C-9AC2547D0105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD2D5CA-766B-4484-AE55-45307AD254F5}
+	EndGlobalSection
+EndGlobal

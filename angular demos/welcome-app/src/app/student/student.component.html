@@ -1,0 +1,30 @@
+<p>student works!</p>
+
+    <div>
+    {{student}} <br>
+    {{student | json}} <br>
+    {{student.doj | date:'medium'}} <br>
+    {{student.fullName | snake:'L'}}
+</div> 
+
+<hr>
+<br>
+<button (click)=displayDiv()>Display</button>
+
+<div *ngIf="codeDisplay">
+    <table >
+        <tr>
+            <th>Full Name</th>
+            <th>CGPA</th>
+            <th>Date Of Joining</th>
+        </tr>
+        <tr *ngFor="let t of students"  [style.background-color]="t.cgpa | cgpaToColor">
+            <td>{{t.fName}}</td>
+            <td>{{t.cgpa}}</td>
+            <td>{{t.doj}}</td>
+        </tr>
+    </table>
+    
+    
+    
+</div>
